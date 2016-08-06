@@ -135,7 +135,7 @@ Exercise 11 is all about the analyis of text based on the language. Exercise 4 w
 * Query 3 will look for the term *"werk"* on the *"title"* property
 * Query 2 will look for the term *"werk"* on the *"title.nl"* field (which uses the Dutch analyzer)
 
-[Load exercise 11 in Sense](http://localhost:5601/app/sense?load_from=https://raw.githubusercontent.com/ThijsFeryn/elasticsearch_tutorial/master/data/11_kabguages.json)
+[Load exercise 11 in Sense](http://localhost:5601/app/sense?load_from=https://raw.githubusercontent.com/ThijsFeryn/elasticsearch_tutorial/master/data/11_languages.json)
 
 
 ## Exercise 12: geo data
